@@ -93,7 +93,7 @@ $ npm start server.js
 
 ## Contributors
 
-David Acosta.
+
 
 ## License
 
